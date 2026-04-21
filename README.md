@@ -42,7 +42,11 @@ pip install -r requirements.txt
    - Bot Token (get this from @BotFather)
 
 #### Step 2: Configure the bot
-Create a `.env` file in the project folder with:
+Then you can type, file in the project folder with:
+```
+copy .env.example .env
+```
+you will see this in `.env` file
 ```
 API_ID=your_api_id_here
 API_HASH=your_api_hash_here
